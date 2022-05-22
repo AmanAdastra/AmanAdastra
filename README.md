@@ -1,4 +1,4 @@
-# Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+# Hello, Visitor! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 
 - 👋 Hi, I am Aman from India
@@ -9,7 +9,7 @@
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=amanadastra&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amanadastra)](https://github.com/anuraghazra/github-readme-stats)
 
 <!---
 AmanAdastra/AmanAdastra is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
