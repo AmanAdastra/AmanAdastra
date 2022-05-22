@@ -9,7 +9,7 @@
 - I read a lot Instructional and biographies in books!
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=amanadastra)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=amanadastra&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!---
