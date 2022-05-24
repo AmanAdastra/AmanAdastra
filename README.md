@@ -8,9 +8,7 @@
 - Also i write on Medium!
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amanadastra&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Aman's GitHub stats](https://github-readme-stats.vercel.app/api?username=amanadastra&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amanadastra&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)[![Aman's GitHub stats](https://github-readme-stats.vercel.app/api?username=amanadastra&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
