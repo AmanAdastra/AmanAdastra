@@ -1,7 +1,7 @@
 # Hello, Visitor! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 
-- 👋 Hi, I am Aman from India
+- 👋 Hi, I am Aman from India.
 - 👀 I’m interested in ... Making things Simple and useful for everyone
 - 🌱 I have expertise in Python, Django and Javascript!
 - 📫 How to reach me ...amanayankhan78@gmail.com
